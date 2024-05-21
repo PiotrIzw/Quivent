@@ -51,6 +51,14 @@ The application stack consists of three main components:
   - **Web Application**: Developed using React.js.
 
 ## Demo
+A demo is not available at the moment. Please see a couple of the screens from the applications:
+<p float="left">
+  <img src="https://github.com/PiotrIzw/Quivent/assets/58219259/7cbc31bd-479c-4943-8a5b-9699a7767a15)" width="300" />
+  <img src="https://github.com/PiotrIzw/Quivent/assets/58219259/dda169c1-7a79-4f84-a096-39d4666d7fe4" width="300" /> 
+  <img src="https://github.com/PiotrIzw/Quivent/assets/58219259/e6ea96ae-a0d1-41e6-bf1c-628223c4639a" width="300" />
+</p>
 
-A demo is not available at the moment. This part will be updated soon.
+<p float="left">
+  <img src="https://github.com/PiotrIzw/Quivent/assets/58219259/8b658092-659f-4a6d-807e-11a283356971" width="900" />
+</p>
 
